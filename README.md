@@ -69,7 +69,7 @@ Designed, optimized, and automated production-grade data pipelines supporting cr
 ---
 
 ## 📂 Code Sample Preview
-To view a sanitized, production-grade PySpark ETL template featuring schema validation, broadcast joins, and regulatory metrics aggregation (IRS, ROOS, FSI), check out [`src/etl_regulatory_pipeline.py`](./src/etl_regulatory_pi peline.py).
+To view a sanitized, production-grade PySpark ETL template featuring schema validation, broadcast joins, and regulatory metrics aggregation (IRS, ROOS, FSI), check out [`src/roos_consolidation_pipeline.py`](./src/roos_consolidation_pipeline.py).
 
 ---
 
